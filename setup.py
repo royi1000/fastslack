@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
   name='fastslack',
   packages=['fastslack'], # this must be the same as the name above
-  version='0.0.1',
+  version='0.0.2',
   description='send fast slack message',
   author='Royi Reshef',
   url='https://github.com/royi1000/fastslack',
